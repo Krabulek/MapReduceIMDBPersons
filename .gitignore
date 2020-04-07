@@ -1,0 +1,8 @@
+*.jar
+*.class
+.idea/
+target/
+*.tsv
+*.txt
+out/production/MapReduceIMDBPersons/META-INF/MapReduceIMDBPersons.kotlin_module
+MapReduceIMDBPersons.iml
