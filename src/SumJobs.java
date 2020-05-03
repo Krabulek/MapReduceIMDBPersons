@@ -69,9 +69,6 @@ public class SumJobs implements WritableComparable<SumJobs> {
 
     @Override
     public String toString() {
-        return "SumJobs{" +
-                "numDirected=" + numDirected +
-                ", numPlayed=" + numPlayed +
-                '}';
+        return numDirected + "\t" + numPlayed;
     }
 }
